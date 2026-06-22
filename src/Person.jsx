@@ -40,4 +40,4 @@ function Person(){
     )
 }
 
-export default person
+export default Person
