@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function person(){
+function Person(){
     
     const [person,setPerson] = useState(
         {
